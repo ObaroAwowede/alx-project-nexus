@@ -2,7 +2,7 @@
 
 # Project Nexus: Full‑Stack Knowledge Base
 
-Welcome to **Project Nexus**, a unified repository capturing the key learnings, best practices, and real‑world solutions from ALX’s ProDev Frontend and Backend Engineering programs.
+Welcome to **Project Nexus**, a unified repository capturing the key learnings, best practices, and real‑world solutions from ALX’s ProDev Frontend and Backend Engineering programs. The project is a Social Media App, where users can Create, Like and Comment on posts 
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to **Project Nexus**, a unified repository capturing the key learnings, 
 
 ### Technologies & Tools
 - **Languages & Frameworks:** Python, Django, Django REST Framework  
-- **APIs:** RESTful services, GraphQL  
+- **APIs:** GraphQL  
 - **DevOps & Infrastructure:** Docker, GitHub Actions (CI/CD)  
 - **Asynchronous Processing:** Celery, RabbitMQ  
 - **Databases:** PostgreSQL (ORM & raw SQL)  
